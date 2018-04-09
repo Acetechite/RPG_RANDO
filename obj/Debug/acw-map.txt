@@ -1,0 +1,4 @@
+RPG_Rando.MainActivity, RPG_Rando;md5953f52ddbe984ddc98ba19115ab87234.MainActivity
+RPG_Rando.MainActivity, RPG_Rando, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5953f52ddbe984ddc98ba19115ab87234.MainActivity
+RPG_Rando.MainActivity;md5953f52ddbe984ddc98ba19115ab87234.MainActivity
+rpg_rando.MainActivity;md5953f52ddbe984ddc98ba19115ab87234.MainActivity
